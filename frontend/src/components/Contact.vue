@@ -2,7 +2,7 @@
 import SectionTitle from './SectionTitle.vue';
 
 function openGmail() {
-  const email = 'awan.cahya@gmail.com';
+  const email = 'ardiandwisucipto@students.amikom.ac.id';
   const subject = 'Kontak dari Website';
   const body = 'Halo, saya tertarik untuk menghubungi Anda...';
 
@@ -22,12 +22,12 @@ function openGmail() {
 </button>
 <div class="flex justify-center space-x-6 mb-8">
 
-<a href="https://github.com/awanee" target="_blank" class="text-gray-400 hover:text-white transition-colors duration-300">GitHub</a>
+<a href="https://github.com/Joyzz1945" target="_blank" class="text-gray-400 hover:text-white transition-colors duration-300">GitHub</a>
 
-<a href="https://www.linkedin.com/in/awan-cahya-119952319" target="_blank" class="text-gray-400 hover:text-white transition-colors duration-300">LinkedIn</a>
+<a href="https://www.instagram.com/ardiannyk?igsh=dTF1NWhxcTY0aDNs" target="_blank" class="text-gray-400 hover:text-white transition-colors duration-300">Instagram</a>
 
 </div>
-<p class="text-gray-500">&copy; {{ new Date().getFullYear() }} Anugrah Awan Cahya Putra. Dibuat dengan disertai cinta ibu ^w^
+<p class="text-gray-500">&copy; {{ new Date().getFullYear() }} Ardian Dwi Sucipto. Saya siap bekerja di Perusahaan Anda ^w^
 </p>
 </div>
 </footer>
